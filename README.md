@@ -1,4 +1,4 @@
 # My_first_Repo
 New_to_GitHub
-<hr>
+<br>
 Author - Saara Kauser
